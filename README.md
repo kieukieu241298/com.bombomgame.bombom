@@ -1,1 +1,4 @@
-# com.bombomgame.bombom
+{
+"access": "3",
+"url": "https://google.com"
+}
